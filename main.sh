@@ -12,3 +12,6 @@ g++ TestGit.o Func.o Func2.o -o main.exe
 
 ## Removing the objects
 rm Func2.o Func.o TestGit.o main.exe 
+
+##Would this change show in branch version?
+echo "This is a New Branch"!
