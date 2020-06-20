@@ -1,0 +1,9 @@
+Sepehr Moalemi - 2020,JUN,20
+
+Usage:
+	run main.sh file
+
+Purpose:
+	test loading the Eigen library
+	work with g++
+	working with .h files
